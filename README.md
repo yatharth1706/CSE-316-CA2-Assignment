@@ -31,8 +31,8 @@ Markdown | Less | Pretty
 
 
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Available | Processes	| Allocation| Max   	|
+|---		|           |---		|---        |
+|A  B  C 	|---        |A   B   C  |A   B   C  |
+|   		|P0         |           |   		|
+|   		|P1         |           |   		|
