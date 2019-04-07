@@ -21,3 +21,9 @@ Ques. 2. There are 5 processes and 3 resource types, resource A with 10 instance
 |               | P2            | 3	  0	  2	  |	9	0	2 |
 |               | P3            | 2	  1	  1	  |	2	2	2 |
 |               | P4            | 0	  0	  2	  |	4	3	3 |
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
