@@ -1,9 +1,10 @@
 #include<stdio.h>
-const int Resources=3; 
-const int Processes=5;
 
 int main() 
-{ 	int instance[Resources];
+{ 	int Resources,Processes;
+        printf("Enter the number of Resources and Processes= ");
+        scanf("%d%d",&Resources,&Processes);
+        int instance[Resources];
 	printf("Enter the available instances of resource A,B AND C= ");
 	for(int i=0;i<3;i++){
 		scanf("%d",&instance[i]);
